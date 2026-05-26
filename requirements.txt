@@ -1,6 +1,6 @@
-streamlit==1.32.0
-opencv-python-headless==4.10.0.84
-fer==22.5.1
+streamlit
+opencv-python-headless
+fer
 tensorflow==2.15.0
-Pillow
+pillow
 numpy==1.26.4
