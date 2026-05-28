@@ -1,7 +1,5 @@
 streamlit
 opencv-python-headless
 fer
-tensorflow
 pillow
 numpy
-mtcnn
