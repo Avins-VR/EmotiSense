@@ -2,5 +2,6 @@ streamlit
 opencv-python-headless
 fer
 tensorflow==2.15.0
-pillow
+Pillow
 numpy==1.26.4
+mtcnn
