@@ -1,9 +1,9 @@
 streamlit==1.35.0
 opencv-python-headless==4.10.0.84
-fer==22.5.1
-tensorflow-cpu==2.15.0
-keras==2.15.0
-mtcnn==0.1.1
 numpy==1.26.4
 pillow==10.3.0
 moviepy==1.0.3
+fer==22.5.1
+tensorflow==2.15.0
+keras==2.15.0
+mtcnn==0.1.1
