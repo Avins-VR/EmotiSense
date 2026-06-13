@@ -3,7 +3,3 @@ opencv-python-headless
 numpy
 pillow
 moviepy
-tensorflow
-keras
-mtcnn
-fer
